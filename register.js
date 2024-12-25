@@ -1,6 +1,6 @@
 <div>
   <input placeholder="Enter the name" />
-  <input placeholder="Enter the Email" />
-  <input placeholder="Enter the password" />
+  <input type="text" placeholder="Enter the Email" />
+  <input type="password" placeholder="Enter the password" />
   <button>Register</button>
 </div>;
